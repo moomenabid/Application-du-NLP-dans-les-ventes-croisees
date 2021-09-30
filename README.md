@@ -1,4 +1,4 @@
-# NLP_Cross-selling
+# Remplissage-des-canaux-de-vente-par-NLP-CBOW
 
 __#  NLP, Word2vec, CBOW, Tokenization, Bag Of Words, embedding layer, Keras, padding__  
 
