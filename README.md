@@ -1,4 +1,4 @@
-# Remplissage-des-canaux-de-vente-par-NLP-CBOW
+# Remplissage-des-canaux-de-vente-par-NLP-CBO
 
 __#  NLP, Word2vec, CBOW, Tokenization, Bag Of Words, embedding layer, Keras, padding__  
 
