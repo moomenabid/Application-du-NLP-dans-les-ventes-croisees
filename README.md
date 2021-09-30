@@ -3,6 +3,8 @@
 __#  NLP, Word2vec, CBOW, Tokenization, Bag Of Words, embedding layer, Keras, padding__  
 
 L'ensemble de données contenu dans le fichier "data_family.csv" représente les ventes.  
+L'ensemble de données contenu dans le fichier "target2.csv" représente les classes cibles à prédire.  
+le fichier essai.py représente le code écrit en python.  
 Il s'agit d'une application du traitement du langage naturel NLP dans l'identification des opportunités de vente croisée.  
 
 Le code est constitué de plusieurs étapes parmi lesquelles on peut trouver:  
